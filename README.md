@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aayush Joshi</h1>
 <h3 align="center">Dynamic Full-Stack software engineering with 3+ years of experience in software industry. Skilled in developing scalable web applications, designing secure APIs, and optimizing system. Adept at collaborating in agile teams and motivated to apply my knowledge in to solve real-world problems and continuous learning.</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1aayush3" alt="1aayush3" /></a> </p>
+
+- 📫 How to reach me **joshi8aayushraj@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aayushrajjoshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aayushrajjoshi/" height="30" width="40" /></a>
